@@ -1,0 +1,5 @@
+# Project exclude paths
+/Project 1 - TicTacToe/.gradle/
+/Project 1 - TicTacToe/build/
+/Project 1 - TicTacToe/build/classes/java/main/
+/Project 1 - TicTacToe/build/classes/java/test/
