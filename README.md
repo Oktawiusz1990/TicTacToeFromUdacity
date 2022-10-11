@@ -1,5 +1,5 @@
 # TicTacToeFromUdacity
 
-Project from Udacity - Intro to Java Funcctional Programming.
+Project for Udacity - Intro to Java Functional Programming.
 
 Tic-Tac-Toe game.
